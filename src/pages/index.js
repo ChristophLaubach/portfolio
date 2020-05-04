@@ -19,19 +19,12 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              Ipsum lorem dolor aliquam ante commodo
+              I'm not sure yet if I want to use my actual name
               <br />
-              magna sed accumsan arcu neque.
+              or use my online nickname that came from gaming.
             </h2>
           </header>
-          <p>
-            Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc
-            nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae
-            lobortis tortor primis integer massa adipiscing id nisi accumsan
-            pellentesque commodo blandit enim arcu non at amet id arcu magna.
-            Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate
-            lorem neque cubilia.
-          </p>
+          <p>Check out some of my recent work below!</p>
           <ul className="actions">
             <li>
               <a href="#" className="button">
